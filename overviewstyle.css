@@ -12,6 +12,7 @@ header {background: linear-gradient(to right, #235694, white);
         font-family: Verndad ;
         color: #FFFFFF }
 footer{text-align: center}
+nav { text-align: left;}
 nav a { text-decoration: none;
        padding: 20px;
        display: block;
@@ -23,3 +24,5 @@ nav a:visited { color: #EAEAEA; }
 nav a:hover     { color: #869DC7;
                background-color: #EAEAEA; }
 footer {text-align: center}
+ul { text-align: center;
+    list-style-type: none}
